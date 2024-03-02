@@ -1,11 +1,15 @@
 {
   "name": "tombol-simpel",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "ini adalah tombol simpel",
   "main": "dist/cjs/index.js",
   "files": [
     "dist"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/saltoterus/tombol-simpel/tree/main"
+  },
   "types": "dist/index.d.ts",
   "scripts": {
     "rollup": "rollup -c --bundleConfigAsCjs"
